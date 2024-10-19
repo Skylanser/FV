@@ -59,6 +59,10 @@ ul {
     margin: auto;
 }
 
+.con_soc_item, .con_soc-item {
+    background-color: #fff;
+}
+
 .con_soc-text {
     font-size: 20px;
     text-align: center;
